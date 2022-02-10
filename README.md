@@ -9,3 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as FullStack Engineer
 - 🌱 I’m currently learning Typescript React Native Nest.js
 - 📫 How to reach me: leonardoblack.net@gmail.com
+
+
+Visitors Since  February 10th, 2022
+
+![Visitor Count](https://profile-counter.glitch.me/leohck/count.svg)
